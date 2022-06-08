@@ -17,7 +17,7 @@ Now we do the same thing on the sparse matrix (perforated matrix), then do a mod
 import package:
 - import pandas as pd
 - import numpy as np
-- 
+- from luwiji.recommendation_system import illustration
 # Import Data
 
 The data that I use in this project is user rating data, consisting of 1000209 rows and 3 columns, namely 'UserId', 'movie', and 'rating'.
